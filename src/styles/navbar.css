@@ -1,0 +1,22 @@
+.navbar{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+.nav1{
+    margin:10px 100px;
+}
+.nav2{
+    margin:10px 100px;
+    padding:20px;
+}
+.nav2 a{
+    margin:20px;
+    text-decoration: none;
+    color:black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.nav2 a:hover{
+    color:grey;
+}

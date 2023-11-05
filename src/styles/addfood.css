@@ -1,0 +1,57 @@
+.content1{
+    background-image:url(https://preview.colorlib.com/theme/stories/images/bg_4.jpg);
+    background-size:cover;
+    height:415px;
+    width:100%;
+    margin:10px 0px;
+    padding-bottom:50px;
+}
+
+.content1 h1{
+    color:white;
+    font-size:40px;
+    padding-top: 200px;
+}
+
+.content1 a {
+    color:whitesmoke;
+    font-size:30px;
+    margin:20px;
+}
+
+.content2{
+    display:flex;
+}
+
+.div2{
+    background-color: aliceblue;
+    padding:150px 30px;
+}
+
+.div2 input{
+    height:30px;
+    font-size:30px;
+    margin:20px;
+}
+
+.content2{
+    display:flex;
+}
+
+.div2{
+    background-color: aliceblue;
+    padding:150px 30px;
+}
+
+.div2 input{
+    height:30px;
+    width:350px;
+}
+
+#btn2{
+    background-color: orangered;
+    color:white;
+    height:40px;
+    width:350px
+}
+

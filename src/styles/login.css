@@ -1,0 +1,47 @@
+.content{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    padding:10px;
+    margin:0px 10px;
+}
+
+.div1 h3{
+    margin:150px 0px 30px 0px;
+}
+
+.div1{
+    height:800px;
+    width:320px;
+    background-color:aliceblue;
+    align-items:start;
+}
+
+.div1 label{
+    margin:100px 10px 100px 0px;
+    padding-right:0px;
+}
+
+.div1 input{
+    margin:20px 0px;
+}
+
+.div1 a{
+    color:black;
+    margin:30px 20px;
+}
+
+.div1 button{
+    background-color: rgb(223,103,6);
+    color:white;
+    height:40px;
+    width:200px;
+    margin:30px;
+    border:none;
+    border-radius:5px;
+}
+
+.div2 img{
+    height:500px;
+    width:400px;
+}
